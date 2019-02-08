@@ -2,7 +2,7 @@
 
 body{
     background-image: url(https://images.homedepot-static.com/productImages/e350ef76-f7ff-46ee-83d2-606aab23453c/svn/mea-nursery-rose-bushes-62014-64_1000.jpg);
-    /* background-repeat: no-repeat;  do this once I figure out how to stretch that background over everything*/
+    background-repeat: no-repeat;
     height: 100%;
     width: 100%;
     background-size: 100%;
